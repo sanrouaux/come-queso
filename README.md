@@ -2,7 +2,7 @@
 Videojuego 
 
 --DESCRIPCIóN--
-Ayuda a un simpático ratoncito a hacerse de su cena. Deberás guiar a nuestro amigo a través de peligrosas trampas hasta el preciado botín. Pero cuidado! La dueña de casa siempre está atenta. 
+Ayuda a este simpático ratoncito a hacerse de su cena. Deberás guiar a nuestro amigo a través de peligrosas trampas hasta el preciado botín. ¡Pero cuidado! La dueña de casa está siempre atenta. 
 
 --DESCARGA--
 Para jugar @ComeQueso, clona el repositorio remoto en un repositorio local. El archivo index.html abrirá un navegador y dará inicio al videojuego. No requiere instalación.
