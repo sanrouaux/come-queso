@@ -1,0 +1,55 @@
+body{
+  background-color: #D7D5A0;
+}
+
+#mouse{
+    width: 100px;
+    height: 100px;
+    bottom: 80px;
+    left: 100px;
+    position: absolute;
+}
+
+#cheese{
+    width: 100px;
+    height: 100px;
+    bottom: 450px;
+    left: 1100px;
+    position: absolute;
+}
+
+.ratonera{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#ratonera5, #ratonera6, #ratonera7, #ratonera8{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+}
+
+#botonJugar{
+  width: 300px;
+  height: 100px;
+  bottom: 50px;
+  left: 60px;
+  position: absolute;
+}
+
+#botonSalir{
+  width: 200px;
+  height: 100px;
+  bottom: 50px;
+  left: 1120px;
+  position: absolute;
+}
+
+#portada, #pasoNivel, #derrota, #creditos, #victoria{
+  width: 700px;
+  height: 400px;
+  bottom: 175px;
+  left: 320px;
+  position: absolute;
+}
